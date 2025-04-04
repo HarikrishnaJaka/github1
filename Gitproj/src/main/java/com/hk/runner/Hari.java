@@ -10,7 +10,7 @@ public class Hari implements CommandLineRunner {
     System.out.println("hello bosss");
     System.out.println("how are you");
 		System.out.println("what are you doing");
-		System.out.println("what are you doing");
+		System.out.println("how is your day");
 		
 
 	}
